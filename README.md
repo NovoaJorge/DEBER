@@ -14,6 +14,8 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 1.- OBJETIVOS 
 
+El objetivo principal es dominar el teorema de thevenin, superposicion y la maxima transferencia de potencia de maner corecta para poder realizar una buena aplicacion en los diferentes ejercicios propuestos.
+
 
 2.- MARCO TEORICO 
 
