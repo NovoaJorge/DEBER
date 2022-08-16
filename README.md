@@ -44,7 +44,7 @@ En ingeniería eléctrica, electricidad y electrónica, el teorema de máxima tr
 
 
 4.- VIDEO
-
+https://youtu.be/OEL0ondXj1
 
 5.- CONCLUSIONES
 la aplicacion de los teoremas me a ayudado a comprender y realizar los ejercicios de mejor manera al comprenderlos pude hacer una correccion buena y corregir los errores que e estado cometiendo.
