@@ -33,11 +33,15 @@ En ingeniería eléctrica, electricidad y electrónica, el teorema de máxima tr
 
 
 5.- CONCLUSIONES
-
+la aplicacion de los teoremas me a ayudado a comprender y realizar los ejercicios de mejor manera al comprenderlos pude hacer una correccion buena y corregir los errores que e estado cometiendo.
 
 6.- BIBLIOGRAFÍA
 
 (N.d.). Retrieved July 14, 2022, from http://file:///C:/Users/user_lapt/Downloads/5%20Principios%20de%20circuitos%20electricos%20Floyd-protegido.pdf
+References
+Susana. (n.d.). Teorema de superposici�n. Innovacionumh.es. Retrieved August 16, 2022, from https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
+
+Teorema de Thevenin – Análisis de circuitos eléctricos. (2019, November 10). dademuchconnection. https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
 
 
 
